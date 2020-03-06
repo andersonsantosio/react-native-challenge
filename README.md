@@ -44,6 +44,7 @@ OBS: É impreterível que os dados persistam (sejam salvos) no dispositivo, a fi
 ### Diferenciais
 
 - Animações/Transições
+- Redux, Redux Thunk ou Redux-Saga, Redux Persist
 
 ## Recursos:
 
