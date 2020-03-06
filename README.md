@@ -5,12 +5,12 @@
 
 Neste desafio você foi contratado para desenvolver um aplicativo de escalação de time de futebol, onde os jogadores podem ser qualquer usuário disponível no GitHub.
 
-Todos os detalhes sobre a API do GitHub:
-[https://developer.github.com/v3/](https://developer.github.com/v3/)
-
 ## Descrição
 
 Nesta aplicativo, além de um campo de busca, você precisa exibir um campo de futebol, onde os jogadores serão adicionados e posicionados em seus respectivos pontos, ao clicar em qualquer jogador em campo, você exibirá o perfil dele com algumas informações e um botão para poder removê-lo do campo (má conduta talvez? :P).
+
+Para que tudo isso seja possível você fará uso da API do GitHub, para mais detalhes acesse o link da documentação:
+[https://developer.github.com/v3/](https://developer.github.com/v3/)
 
 ## Funcionalidades
 
