@@ -7,7 +7,7 @@ Neste desafio você foi contratado para desenvolver um aplicativo de escalação
 
 ## Descrição
 
-Nesta aplicativo, além de um campo de busca, você precisa exibir um campo de futebol, onde os jogadores serão adicionados e posicionados em seus respectivos pontos, ao clicar em qualquer jogador em campo, você exibirá o perfil dele com algumas informações e um botão para poder removê-lo do campo (má conduta talvez? :P).
+Nesta aplicativo, além de um campo de busca, você precisa exibir um campo de futebol, onde os jogadores serão adicionados e posicionados em seus respectivos pontos, ao clicar em qualquer jogador em campo, você exibirá o perfil dele com algumas informações e um botão para poder removê-lo do campo (má conduta talvez? 😛).
 
 Para que tudo isso seja possível você fará uso da API do GitHub, para mais detalhes acesse o link da documentação:
 [https://developer.github.com/v3/](https://developer.github.com/v3/)
@@ -16,7 +16,7 @@ Para que tudo isso seja possível você fará uso da API do GitHub, para mais de
 
 HomeScreen:
 - Ao clicar em "Adicionar ao SQUAD", ir para a tela de busca.
-- Ao pressionar um jogador em campo, poder posicioná-lo em qualquer ponto do mesmo.
+- Ao pressionar um jogador em campo, poder posicioná-lo em qualquer ponto deste.
 - Ao clicar no jogador em campo, ir para a tela de perfil do jogador.
 
 SearchScreen:
@@ -40,6 +40,10 @@ OBS: É impreterível que os dados persistam (sejam salvos) no dispositivo, a fi
 - Atender aos critérios da regra de negócio.
 - Persistir os dados localmente.
 - Escrever testes unitários, coverage aceitável é de 60%.
+
+### Diferenciais
+
+- Animações/Transições
 
 ## Recursos:
 
